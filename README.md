@@ -1,2 +1,2 @@
 # SpecterInsight-Publc
-Public releases ans ticket tracking for SpecterInsight.
+Public releases and ticket tracking for SpecterInsight.
